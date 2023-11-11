@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"Black Sabbath - Paranoid",
+        "nombre" : "Black Sabbath - Paranoid",
+        "url":"assets/music/rock/Black Sabbath - Paranoid.mp3",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"Kiss - I Was Made For Lovin You",
+        "nombre" : "Kiss - I Was Made For Lovin You",
+        "url":"assets/music/rock/Kiss - I Was Made For Lovin You.mp3",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"Loverboy - Working for the Weekend",
+        "nombre" : "Loverboy - Working for the Weekend",
+        "url":"assets/music/rock/Loverboy - Working for the Weekend.mp3",
+        "duracion":198
+    },
+    {
+        "id":4,
+        "playlist":"rock",
+        "artista":"Queen - Don't stop me now",
+        "nombre" : "Queen - Don't stop me now",
+        "url":"assets/music/rock/Queen - Don't stop me now.mp3",
+        "duracion":200
+    },
+    {
+        "id":5,
+        "playlist":"rock",
+        "artista":"The Outfield - Your love",
+        "nombre" : "The Outfield - Your love",
+        "url":"assets/music/rock/The Outfield - Your love.mp3",
+        "duracion":298
+    }
+]

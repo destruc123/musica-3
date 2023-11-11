@@ -1,0 +1,19 @@
+[
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"Phonk House Version",
+        "nombre" : "Phonk House Version",
+        "url":"assets/music/deporte/Phonk House Version.mp3",
+        "duracion":215
+    },
+    {
+        "id":1,
+        "playlist":"deporte",
+        "artista":"--------",
+        "nombre" : "WARNING (SPEED UP)",
+        "url":"assets/music/deporte/WARNING (SPEED UP).mp3",
+        "duracion":158
+    }
+
+]

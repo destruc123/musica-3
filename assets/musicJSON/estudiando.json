@@ -1,0 +1,28 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"Beethoven - Symphony",
+        "nombre" : "Beethoven - Symphony",
+        "url":"assets/music/estudiar/Beethoven - Symphony.mp3",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"Nocturne - Chopin",
+        "nombre" : "Nocturne - Chopin",
+        "url":"assets/music/estudiar/Nocturne - Chopin.mp3",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"Antonio Vivaldi",
+        "nombre" : "Antonio Vivaldi",
+        "url":"assets/music/estudiar/Antonio Vivaldi.mp3",
+        "duracion":211
+    }
+
+
+]
